@@ -1,7 +1,7 @@
 # 🧠 Bank Customer Churn Prediction Framework 📊  
 **Final Project — Analytics Methods and Aplications  II (Pontificia Universidad Javeriana)**  
 
-This project develops a complete **Machine Learning framework** to predict customer churn in a retail bank.  
+This project develops a complete **Machine Learning framework** to predict customer churn in a retail bank --> **[Notebook_Main.ipynb](./Notebook_Main.ipynb)**. 
 It integrates data preprocessing, model training, hyperparameter tuning, and interpretability analysis using multiple algorithms (SVM, Neural Networks, XGBoost, and PyCaret).  
 The goal is to identify clients most likely to leave the bank and understand the behavioral and financial factors driving churn.
 
