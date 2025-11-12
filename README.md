@@ -182,15 +182,6 @@ To validate the robustness of the manual framework, an AutoML experiment was con
 
 ---
 
-## 👨‍💻 Authors
-
-**Camilo Delgado Burbano - Cristion Ivan Pulido Molano**  
-Pontificia Universidad Javeriana — Industrial Engineering  
-📧 [camilodelgadoburbano@gmail.com](mailto:camilodelgadoburbano@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/camilodelgadoburbano)
-
----
-
 ## 🏁 License
 
 This project is for **academic and educational purposes**.  
