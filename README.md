@@ -155,7 +155,7 @@ To validate the robustness of the manual framework, an AutoML experiment was con
 
 2. **Use Python 3.10.11 kernel**
 
-   Make sure you are running the **Notebook_Main.ipynb** with a Python 3.10.11 interpreter (the same version used to develop the project).
+   Make sure you are running the **[Notebook_Main.ipynb](./Notebook_Main.ipynb)** with a Python 3.10.11 interpreter (the same version used to develop the project).
 
    ```bash
    # Verify your Python version
@@ -168,7 +168,7 @@ To validate the robustness of the manual framework, an AutoML experiment was con
 
 3. **PyCaret environment**
 
-   Make sure you are running the **Pycaret_Notebook.ipynb** with a virtual env (3.10.11).
+   Make sure you are running the **[Pycaret_Notebook.ipynb](./Pycaret_Notebook.ipynb)** with a virtual env (3.10.11).
 
    ```bash
    python -m venv pycaret_env
